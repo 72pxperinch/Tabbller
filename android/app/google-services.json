@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "610812706144",
+    "project_id": "tabbller-8a6ef",
+    "storage_bucket": "tabbller-8a6ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610812706144:android:79350ce3a540a714957205",
+        "android_client_info": {
+          "package_name": "com.pxlbyt.tabbller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610812706144-7sk4ipp6297vedefgfffrdc5maqq8sao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI40kQ0ZzH9ebdRaub9fP8c8IZhgNgW_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610812706144-7sk4ipp6297vedefgfffrdc5maqq8sao.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610812706144-lrmu3k3kkanoc0smk0a0vdap83th2107.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tabbller"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
