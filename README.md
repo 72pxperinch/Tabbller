@@ -15,4 +15,4 @@ Key Features:
 
 ### Enjoy!
 
-#### For any queries or support, please contact us at tabbller2024@gmail.com.
+#### For any queries or support, please contact us at 72pxperinch@gmail.com.
